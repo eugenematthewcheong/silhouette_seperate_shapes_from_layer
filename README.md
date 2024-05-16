@@ -1,4 +1,4 @@
-# Silhouette Seperate Shapes from Layer
+# Silhouette | Seperate Shapes from Layer
 Author: Eugene Matthew Cheong <br>
 For Silhouette version 2020 and above
 
